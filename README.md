@@ -5,7 +5,7 @@ A sample demo project for using Protractor with Cucumber-js
 ### Proposed Project structure
 <pre>
 └───Protractor-cucumber-js
-    ├───node_modules(default, comes when you do nom install)
+    ├───node_modules(default, comes when you do npm install)
     |
     ├───pages
     |
@@ -18,3 +18,9 @@ A sample demo project for using Protractor with Cucumber-js
     ├───conf.js
 
 </pre>
+
+#Install dependencies
+npm install
+
+#Run Scripts
+npm test
