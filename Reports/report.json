@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Cucumber Google",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4778670326
+  }
+]
